@@ -1,0 +1,23 @@
+{
+  "name": "plpo-bot",
+  "version": "1.0.0",
+  "description": "Bot for Place of Posters",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yegorweb/plpo-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "yegorweb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yegorweb/plpo-bot/issues"
+  },
+  "homepage": "https://github.com/yegorweb/plpo-bot#readme"
+}
